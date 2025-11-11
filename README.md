@@ -28,7 +28,7 @@ This project focuses on UI design and layout best practices for **Android and iO
 
 | Home Screen | Details Screen |
 |------------|----------------|
-| <img src="art/home.png" width="250"> | <img src="art/detail.png" width="250"> |
+| <img src="art/home.png" width="250"> | <img src="art/book.png" width="250"> |
 
 *(Add your own screenshots in `art/` folder if needed)*
 
@@ -37,3 +37,4 @@ This project focuses on UI design and layout best practices for **Android and iO
 ```bash
 flutter pub get
 flutter run
+
