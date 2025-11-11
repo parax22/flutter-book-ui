@@ -30,10 +30,5 @@ This project focuses on UI design and layout best practices for **Android and iO
 |------------|----------------|
 | <img src="art/home.png" width="250"> | <img src="art/book.png" width="250"> |
 
-## 🚀 How to Run
-
-```bash
-flutter pub get
-flutter run
 
 
